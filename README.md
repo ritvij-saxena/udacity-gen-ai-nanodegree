@@ -1,6 +1,6 @@
 # Udacity Generative AI Nanodegree Projects
 
-This repository contains assignments and projects completed as part of the [Udacity Generative AI Nanodegree](https://www.udacity.com/course/generative-ai-nanodegree--nd345). The projects focus on applying generative AI techniques, including lightweight fine-tuning and building custom AI solutions.
+This repository contains assignments and projects completed as part of the [Udacity Generative AI Nanodegree](https://https://www.udacity.com/course/generative-ai--nd608). The projects focus on applying generative AI techniques, including lightweight fine-tuning and building custom AI solutions.
 
 ## Project Overview
 
