@@ -27,6 +27,32 @@ This repository contains assignments and projects completed as part of the [Udac
      - Model customization
      - User interaction design
    - **Folder**: `custom_chatbot`
+   - **Status**: Complete
+
+  ### 3. **AI Photo Editing with Inpainting**
+   - **Description**: This project involves building an application that allows users to modify images by changing the background or subject. Users can upload an image, select the main object, and use the Segment Anything Model (SAM) to create a mask. After finalizing the mask, users provide a text description for a new background or subject. The app then uses a text-to-image diffusion model to generate and display the updated image. This tool can be used for tasks such as swapping backgrounds, changing subjects, or removing objects.
+   - **Technologies Used**:
+     - Python
+     - Image processing models (SAM, text-to-image diffusion models)
+   - **Key Concepts**:
+     - Image segmentation
+     - Text-to-image generation
+     - Interactive image editing
+   - **Folder**: `AI Photo Editing with Inpainting`
+   - **Status**: Complete
+
+### 4. **HomeMatch - Personalized Real Estate Listings**
+   - **Description**: HomeMatch transforms the real estate search into a personalized experience by matching property listings with individual buyer preferences using advanced Large Language Models (LLMs) and vector databases. It creates tailored property descriptions based on user inputs, enhancing the property search process.
+   - **Key Features**:
+     - **Understanding Buyer Preferences**: Buyers input specific requirements like location, property type, budget, and amenities. HomeMatch uses LLMs to interpret these preferences.
+     - **Integrating with a Vector Database**: Connects to a vector database to store and match property listings based on buyer preferences.
+     - **Personalized Listing Description Generation**: Generates descriptions emphasizing aspects most relevant to the buyer’s preferences.
+     - **Listing Presentation**: Outputs detailed, personalized property listings to engage and satisfy buyers.
+   - **Technologies Used**:
+     - Python
+     - LLMs
+     - Vector databases
+   - **Folder**: `HomeMatch`
    - **Status**: In Progress
 
 ## Getting Started
@@ -34,7 +60,7 @@ This repository contains assignments and projects completed as part of the [Udac
 ### Prerequisites
 - Python 3.x
 - Virtual Environment (optional but recommended)
-- Required Python libraries (see `requirements.txt`)
+- Required Python libraries (see `requirements.txt`) (or edit as per your requirement)
 
 ### Installation
 
@@ -63,6 +89,20 @@ This repository contains assignments and projects completed as part of the [Udac
     cd custom_chatbot
     ```
   - Run the `project.ipynb` notebook
+
+- **AI Photo Editing with Inpainting**:
+  - Navigate to the `AI Photo Editing with Inpainting` directory:
+    ```bash
+    cd AI Photo Editing with Inpainting
+    ```
+  - Run the `starter.ipynb` notebook
+
+- **Homematch**
+  - Navigate to the `HomeMatch` directory:
+  ```bash
+  cd HomeMatch
+  ```
+  - Run the `HomeMatch.ipynb` notebook
 
 ## Contributing
 
