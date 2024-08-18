@@ -2,6 +2,8 @@
 
 This repository contains assignments and projects completed as part of the [Udacity Generative AI Nanodegree](https://https://www.udacity.com/course/generative-ai--nd608). The projects focus on applying generative AI techniques, including lightweight fine-tuning and building custom AI solutions.
 
+[Certificate Of Nanodegree Program Completion Generative AI](https://www.udacity.com/certificate/e/0dfc168e-0a56-11ef-aa6f-9327175df064)
+
 ## Project Overview
 
 ### 1. **Lightweight Fine-Tuning**
@@ -14,7 +16,7 @@ This repository contains assignments and projects completed as part of the [Udac
      - Transfer learning
      - Model fine-tuning
      - Efficient training techniques
-   - **Status**: Complete
+   - **Status**: Completed
 
 ### 2. **Custom Chatbot**
    - **Description**: This project involves creating a custom chatbot tailored to specific needs or use cases. It involves training a conversational model, integrating it with an interface, and customizing responses for a more personalized experience.
@@ -27,7 +29,7 @@ This repository contains assignments and projects completed as part of the [Udac
      - Model customization
      - User interaction design
    - **Folder**: `custom_chatbot`
-   - **Status**: Complete
+   - **Status**: Completed
 
   ### 3. **AI Photo Editing with Inpainting**
    - **Description**: This project involves building an application that allows users to modify images by changing the background or subject. Users can upload an image, select the main object, and use the Segment Anything Model (SAM) to create a mask. After finalizing the mask, users provide a text description for a new background or subject. The app then uses a text-to-image diffusion model to generate and display the updated image. This tool can be used for tasks such as swapping backgrounds, changing subjects, or removing objects.
@@ -39,7 +41,7 @@ This repository contains assignments and projects completed as part of the [Udac
      - Text-to-image generation
      - Interactive image editing
    - **Folder**: `AI Photo Editing with Inpainting`
-   - **Status**: Complete
+   - **Status**: Completed
 
 ### 4. **HomeMatch - Personalized Real Estate Listings**
    - **Description**: HomeMatch transforms the real estate search into a personalized experience by matching property listings with individual buyer preferences using advanced Large Language Models (LLMs) and vector databases. It creates tailored property descriptions based on user inputs, enhancing the property search process.
@@ -53,7 +55,7 @@ This repository contains assignments and projects completed as part of the [Udac
      - LLMs
      - Vector databases
    - **Folder**: `HomeMatch`
-   - **Status**: In Progress
+   - **Status**: Completed
 
 ## Getting Started
 
